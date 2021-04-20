@@ -64,3 +64,4 @@ Emoji: dois pontos e nome do emoji
 
 :vulcan_salute:
 
+
