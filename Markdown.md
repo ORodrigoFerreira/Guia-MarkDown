@@ -52,6 +52,15 @@ Nome|Nota|Número
 ---|---|---
 Rodrigo|10|30
 
-Destacar comando:
+Destacar comando: Colocar entre crases
 
-´print('Olá Mundo')´
+`print('Olá Mundo')`
+
+Trechos de programa:Três crases
+
+``` num = int(input('Digite um valor'))```
+
+Emoji: dois pontos e nome do emoji
+
+:vulcan_salute:
+
