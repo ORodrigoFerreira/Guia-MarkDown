@@ -62,7 +62,7 @@ Trechos de programa:Três crases
 
 Emoji: dois pontos e nome do emoji
 
-:vulcano_salute
+:vulcano_salute:
 👌
 
 
