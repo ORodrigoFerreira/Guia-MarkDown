@@ -37,4 +37,21 @@ Colocar imagem:
 ![image](https://user-images.githubusercontent.com/82291488/115434976-bddba700-a1df-11eb-9d0a-9572b9c66864.png)
 
 
+![Foto perfil](https://raw.githubusercontent.com/ORodrigoFerreira/Guia-MarkDown/main/Foto%20perfil.jpg?token=ATT2WIAYN2PKU46GMGSFUK3AP4FI6)
 
+
+Link:
+
+Acesse meu GitHub
+
+[Clique Aqui](https://github.com/ORodrigoFerreira)
+
+Tabela:
+
+Nome|Nota|Número
+---|---|---
+Rodrigo|10|30
+
+Destacar comando:
+
+´print('Olá Mundo')´
