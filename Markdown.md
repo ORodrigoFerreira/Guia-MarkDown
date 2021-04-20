@@ -29,6 +29,7 @@ Lista de tarefas
 - [x] Tarefa 2
 
 Colocar imagem:
-![Getting Started](img.jpg)
+![image](https://user-images.githubusercontent.com/82291488/115434976-bddba700-a1df-11eb-9d0a-9572b9c66864.png)
+
 
 
