@@ -25,3 +25,10 @@ Lista só com pontos:
 * teste 1
 
 Lista de tarefas
+- [ ] Tarefa 1
+- [x] Tarefa 2
+
+Colocar imagem:
+![Getting Started](img.jpg)
+
+
