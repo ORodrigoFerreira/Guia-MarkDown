@@ -29,6 +29,7 @@ Lista de tarefas
 - [x] Tarefa 2
 
 Colocar imagem:
-![Getting Started](img.jpg)
+
+
 
 
