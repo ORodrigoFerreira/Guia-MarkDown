@@ -1,8 +1,12 @@
 # Linguagem MarkDown
 <> Principais formatações
-Negrito: **negrito** dois asteriscos ou __negrito__ dois underlines
+Negrito: **negrito** dois asteriscos ou __negrito__ 
+dois underlines
+
 Itálico: *Itálico* um asterisco ou _Itálico_ um underline
+
 Riscado: ~~Riscado~~ til til
+
 Títulos: Usar hashtag. 
 # Título Nível Um
 Só uma hashtag
@@ -30,6 +34,7 @@ Lista de tarefas
 
 Colocar imagem:
 
+![image](https://user-images.githubusercontent.com/82291488/115434976-bddba700-a1df-11eb-9d0a-9572b9c66864.png)
 
 
 
